@@ -1,24 +1,26 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rupam</h1>
-<h3 align="center">I'm a CSE undergrad 23', want to be a software developer.</h3>
+<h3 align="center">I'm a CSE undergrad 23', want to be a software developer from 🇮🇳</h3>
 
 
 ## 🙋‍♂️ About Me
-
-- 🌱 I’m currently learning & practicing <a href="https://leetcode.com/rupam66/" target="_blank"> <b>Data Structure & Algorithms</b> </a> 
-  
 - 🔭 I’m currently working on <a href="https://rupamsasmal6636.github.io/Food-delivery-website/" target="_blank"> <b>Food Delivery Website</b> </a>
+
+- 🌱 I’m currently learning - **MERN Stack**
+  
+- 💬 Ask me about - **Web Development, Data Structures & Algorithms** <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
+  
 
 - 👨🏻‍💻 I’m looking for **SDE Internship**
 
 <!-- -  All of my projects are available at **[My Portfolio]()** -->
 
-- 📫 How to reach me **rupam.sasmal.6636@gmail.com**
+- 📫 How to reach me: **rupam.sasmal.6636@gmail.com**
 
-- ⚡ Fun fact **I love coding more than she/her 😂**
+- ⚡ Fun fact **I can do Leetcode problems all day**
 
-## 💻My coding Profiles
+## 💻My coding Profiles <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>
 - 🔗 LeetCode: <a href="https://leetcode.com/rupam66/" target="_blank"> <b>rupam66 </b> </a> 
 - 🔗 CodeChef: <a href="https://www.codechef.com/users/rupamsasmal66" target="_blank"> <b>rupamsasmal66 </b> </a>
 - 🔗 CodeForces: <a href="https://codeforces.com/profile/rupam66"  target="_blank"> <b>rupam66 </b> </a>
@@ -69,7 +71,7 @@
 <br/>
 <br/>
 
-## Connect with me:
+## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px">
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/rupam-sasmal-16a029196/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -85,3 +87,12 @@
 <a href="#">
 <img src="https://img.shields.io/github/followers/rupamsasmal6636?label=Followers&style=social" alt="GitHub Badge" target="_blank">
 </a>
+
+<!-- ## Watch my contribution graph get eaten by the snake 🐍
+![snake gif](https://github.com/jsm-28415/jsm-28415/blob/output/github-contribution-grid-snake.gif) -->
+
+<br>
+<div align="center">
+
+### 👩‍🚀🚀 Thank You for giving the time 😄 to view my GitHub  Profile 👩‍🚀 🚀
+</div>

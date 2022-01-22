@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning & practicing <a href="https://leetcode.com/rupam66/" target="_blank"><b>Data Structure & Algorithms</b> </a> 
+- 🌱 I’m currently learning & practicing <a href="https://leetcode.com/rupam66/" target="_blank"> <b>Data Structure & Algorithms</b> </a> 
   
-- 🔭 I’m currently working on <a href="https://rupamsasmal6636.github.io/Food-delivery-website/" target="_blank"><b>Food Delivery Website</b> </a>
+- 🔭 I’m currently working on <a href="https://rupamsasmal6636.github.io/Food-delivery-website/" target="_blank"> <b>Food Delivery Website</b> </a>
 
 - 👯 I’m looking for **SDE Internship**
 
@@ -19,9 +19,9 @@
 - ⚡ Fun fact **I love coding more than she/her 😂**
 
 ## 👨🏻‍💻My coding Profiles
-- 🔗 LeetCode: <a href="https://leetcode.com/rupam66/" target="_blank"><b>rupam66 </b> </a> 
-- 🔗 CodeChef: <a href="https://www.codechef.com/users/rupamsasmal66" target="_blank"><b>rupamsasmal66 </b> </a>
-- 🔗 CodeForces: <a href="https://codeforces.com/profile/rupam66" target="_blank"><b>rupam66 </b> </a>
+- 🔗 LeetCode: <a href="https://leetcode.com/rupam66/" target="_blank"> <b>rupam66 </b> </a> 
+- 🔗 CodeChef: <a href="https://www.codechef.com/users/rupamsasmal66" target="_blank"> <b>rupamsasmal66 </b> </a>
+- 🔗 CodeForces: <a href="https://codeforces.com/profile/rupam66"  target="_blank"> <b>rupam66 </b> </a>
 
 ## 🚀 Languages and Tools:
 
@@ -41,20 +41,20 @@
 <br/>
 
 <p align="center">
-    <!-- <a href="https://github.com/rupamsasmal6636/github-readme-streak-stats"> -->
+    <a href="#">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rupam Sasmal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rupamsasmal6636&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    <!-- </a> -->
+    </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <!-- <a href="https://github.com/rupamsasmal6636/github-readme-stats"> -->
+    <a href="#">
     <img alt="Rupam Sasmal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rupamsasmal6636&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-    <!-- </a> -->
-  <!-- <a href="https://github.com/rupamsasmal6636/github-readme-stats"> -->
+    </a>
+  <a href="#">
   <img alt="Rupam Sasmal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupamsasmal6636&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-  <!-- </a> -->
+  </a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -62,9 +62,9 @@
 <br/>
 <br/>
 
-<!-- <a href="https://github.com/rupamsasmal6636/" target="_blank"> -->
+<a href="#" target="_blank">
 <img alt="Rupam Sasmal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rupamsasmal6636&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-<!-- </a> -->
+</a>
 
 <br/>
 <br/>
@@ -79,9 +79,9 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/rupamsasmal6636" target="blank">
+<a href="#" target="_blank">
 <img src="https://komarev.com/ghpvc/?username=rupamsasmal6636">
 </a>
-<a href="https://github.com/rupamsasmal6636">
+<a href="#">
 <img src="https://img.shields.io/github/followers/rupamsasmal6636?label=Followers&style=social" alt="GitHub Badge" target="_blank">
 </a>

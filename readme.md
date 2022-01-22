@@ -10,15 +10,15 @@
   
 - 🔭 I’m currently working on <a href="https://rupamsasmal6636.github.io/Food-delivery-website/" target="_blank"> <b>Food Delivery Website</b> </a>
 
-- 👯 I’m looking for **SDE Internship**
+- 👨🏻‍💻 I’m looking for **SDE Internship**
 
-<!-- - 👨‍💻 All of my projects are available at **[My Portfolio]()** -->
+<!-- -  All of my projects are available at **[My Portfolio]()** -->
 
 - 📫 How to reach me **rupam.sasmal.6636@gmail.com**
 
 - ⚡ Fun fact **I love coding more than she/her 😂**
 
-## 👨🏻‍💻My coding Profiles
+## 💻My coding Profiles
 - 🔗 LeetCode: <a href="https://leetcode.com/rupam66/" target="_blank"> <b>rupam66 </b> </a> 
 - 🔗 CodeChef: <a href="https://www.codechef.com/users/rupamsasmal66" target="_blank"> <b>rupamsasmal66 </b> </a>
 - 🔗 CodeForces: <a href="https://codeforces.com/profile/rupam66"  target="_blank"> <b>rupam66 </b> </a>

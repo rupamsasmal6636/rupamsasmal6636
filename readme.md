@@ -79,9 +79,9 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="#" target="_blank">
+<a href="https://github.com/rupamsasmal6636" target="blank">
 <img src="https://komarev.com/ghpvc/?username=rupamsasmal6636">
 </a>
-<a href="#">
+<a href="https://github.com/rupamsasmal6636">
 <img src="https://img.shields.io/github/followers/rupamsasmal6636?label=Followers&style=social" alt="GitHub Badge" target="_blank">
 </a>

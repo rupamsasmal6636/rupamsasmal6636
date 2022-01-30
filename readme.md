@@ -1,18 +1,17 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<p align="center"><a href="#" ><img width="55%" height="auto" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/></a></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rupam</h1>
-<h3 align="center">I'm a CSE undergrad 23', want to be a software developer from 🇮🇳</h3>
+<h3 align="center">I'm a CSE undergrad 23', want to be a software developer engineer from 🇮🇳</h3>
 
 
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently working on <a href="https://rupamsasmal6636.github.io/Food-delivery-website/" target="_blank"> <b>Food Delivery Website</b> </a>
 
-- 🌱 I’m currently learning - **MERN Stack**
+- 🌱 I’m currently learning - **MERN**
   
 - 💬 Ask me about - **Web Development, Data Structures & Algorithms** <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
   
-
-- 👨🏻‍💻 I’m looking for **SDE Internship**
+- 👨🏻‍💻 I’m looking for **Internship for *SDE or Web Developer* role**
 
 <!-- -  All of my projects are available at **[My Portfolio]()** -->
 
@@ -38,6 +37,7 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.microsoft.com/en-in/sql-server/sql-server-2019" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/fluency/42/000000/visual-studio-code-2019.png"/> </a> 
 </p>
 
 <br/>
